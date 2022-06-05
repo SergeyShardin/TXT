@@ -1,0 +1,10 @@
+Bug_ID: 1T
+Title: ZIP field accepts more than 5 digits
+Severity: Major
+Priority: High
+Environment: Mac OS Monterey 12.3.1 (21E258) browser Safary 15.4 (17613.1.17.1.13)
+Precondition: web site www.....com is open" "all fields empty" "create file txt with data 12345678
+Steps to reproduce: copy data 12345678 from file txt and paste in ZIP field
+Expected result: The ZIP field only accepts the first 5 digits
+ERROR: The ZIP field accepts the All 8 digits
+Telegram nickname: @Sergey SH
