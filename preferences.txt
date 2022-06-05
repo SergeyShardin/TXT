@@ -1,0 +1,6 @@
+Preferences
+1. Favorite_Film: Mushrooms.
+2. Favorite_series: Code for 1mln dollars.
+3. Favorite_food: Okroshka.
+4. Favorite_season: Summer.
+5. Future_Country: USA.

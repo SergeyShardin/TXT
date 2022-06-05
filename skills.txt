@@ -1,0 +1,23 @@
+SKILLS:
+1. HTTP
+2. JSON_XML
+3. API Postman JS autotets API
+4. Removing and reading logs from an external server
+5. Sniffing http web traffic through Charles and Fiddler
+6. Dev Tools Web Browsers
+7. VPN
+8. Mobile testing
+9. iOS Android guidlines
+10. Assembly IOS applications on XCode
+11. Assembly Android applications on Android Studio
+12. ADB
+13. proxy and vpn on iOS and Android
+14. Charles and Fiddler on iOS and Android
+15. terminal Linux
+16. Basics bash scripting automation of routine tasks
+17. SQL Create Delete Drop Insert Into Select From Where Join
+18. Postgres
+19. Redis
+20. Stress Testing Jmeter
+21. Scrum
+22. Python
