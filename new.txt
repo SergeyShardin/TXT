@@ -1,0 +1,5 @@
+About Me.
+1. NAME: Sergey Shardin V
+2. Age: 34
+3. Number of Pets: 1
+4. Future Salary: 200000
