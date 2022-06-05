@@ -1,3 +1,4 @@
+BUG_REPORT:
 Bug_ID: 1T
 Title: ZIP field accepts more than 5 digits
 Severity: Major
