@@ -4,8 +4,9 @@ Title: ZIP field accepts more than 5 digits
 Severity: Major
 Priority: High
 Environment: Mac OS Monterey 12.3.1 (21E258) browser Safary 15.4 (17613.1.17.1.13)
-Precondition: web site www.....com is open" "all fields empty" "create file txt with data 12345678
-Steps to reproduce: paste in ZIP field data: 12345678
+Precondition: web site www.....com is open" "all fields empty"
+Steps to reproduce: Paste “12345678” into ZIP filed,
+for example by creating a txt file with 12345678 string, copying it from there and pasting into the field
 Expected result: The ZIP field only accepts the first 5 digits, e.i. 12345
 Actual result: The ZIP field accepts the All 8 digits
 Telegram nickname: @Sergey SH
